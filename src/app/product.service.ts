@@ -7,8 +7,8 @@ import { Album } from './album';
 import { Observable } from 'rxjs/Observable';
 
 import { Product } from './product';[]
-response.json()
-;@Injectable()
+
+@Injectable()
 export class ProductService {
 
   private _albumUrl = '../assets/album.json';
